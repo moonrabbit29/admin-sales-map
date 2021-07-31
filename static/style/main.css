@@ -1,0 +1,20 @@
+body { margin: 0; padding: 0; }
+#map { 
+   position: absolute; top: 0; bottom: 0; width: 70%; 
+}
+.input-data{
+   position: absolute; width: 25%; right:3%;
+}
+
+.right-btn{
+   float: right
+}
+
+.mapboxgl-ctrl-geocoder {
+min-width: 100%;
+}
+.geocoder{
+width: 50%;
+left: 50%;
+top: 10px;
+}
